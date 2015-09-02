@@ -6,7 +6,7 @@
 
 
        <form name="input"
-                action="http://username:password@twitter.com/statuses/update.xml"
+                action="http://KevinMeindl:tage123@twitter.com/statuses/update.xml"
                 method="post">
              Tweet: <textarea cols="40" rows="3" name="status">Hello<br/
                    textarea><br />
